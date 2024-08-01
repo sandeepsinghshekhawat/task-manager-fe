@@ -1,6 +1,6 @@
 # Task Manager Application
 
-This project has two parts - Front End and Back End and this is Frontend part
+This project has two parts - Front End and Back End and this is Frontend part.
 To run the Task Manager Application you need to run the backend application first.
 
 
